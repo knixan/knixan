@@ -9,7 +9,7 @@
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josefineeriksson&theme=radical&hide_border=true)](https://github.com/josefineeriksson)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knixan&theme=radical&hide_border=true)](https://github.com/knixan)
 
 </div>
 
