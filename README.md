@@ -80,4 +80,4 @@ For me, code and design are the same creative process, always aimed at the best 
 
 ## 🌐 Live
 
-[![kladereftervader.se](https://img.shields.io/badge/kladereftervader.se-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kladereftervader.se)
+[![kodochdesign.se](https://img.shields.io/badge/kodochdesign.se-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kodochdesign.se)
