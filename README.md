@@ -29,14 +29,6 @@ For me, code and design are the same creative process, always aimed at the best 
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josefineeriksson&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefineeriksson&layout=compact&theme=radical&hide_border=true" width="42%" />
-</div>
-
----
 
 ## 🛠 Tech Stack
 
