@@ -4,7 +4,7 @@
 
 <br/>
 
-### Hi, I'm **Josefine Eriksson** 👋
+### Hi, I'm **Josefine Eriksson** 
 **Fullstack / Frontend Developer** · Currently on LIA internship at [hitract.se](https://hitract.se)
 
 <br/>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me
 
 Currently completing an **LIA internship at hitract.se**, building a solid hands-on foundation in modern web development.
 Looking for a **Fullstack / Frontend role starting Spring 2025** where I can keep growing and contribute to meaningful projects.
@@ -29,7 +29,7 @@ For me, code and design are the same creative process, always aimed at the best 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josefineeriksson&show_icons=true&theme=radical&hide_border=true" width="48%" />
