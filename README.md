@@ -5,7 +5,7 @@
 <br/>
 
 ### Hi, I'm **Josefine Eriksson** 
-**Fullstack / Frontend Developer** · Currently on LIA internship at [hitract.se](https://hitract.se)
+**Fullstack / Frontend Developer** · Experience with both **Node.js** and **C# / ASP.NET Core**, giving me flexibility across modern JavaScript and .NET ecosystems.
 
 <br/>
 
@@ -56,6 +56,8 @@ For me, code and design are the same creative process, always aimed at the best 
 **⚙️ Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
