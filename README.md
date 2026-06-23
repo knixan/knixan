@@ -30,6 +30,25 @@ Photoshop · Illustrator · Lightroom · Figma · Azure · Git · GitHub
 
 ---
 
+## 🚀 Projects
+
+**[Knegarloggen](https://github.com/knixan)** — SaaS app for construction companies
+Job logging and invoicing system built with Next.js, TypeScript, Prisma and PostgreSQL. Supports ROT tax deductions, customer registry and PDF invoice generation. Deployed as a PWA with Android and iOS support.
+
+**[Skeninge VVS](https://github.com/knixan)** — Business website
+Presentation site for a local plumbing company. Focus on fast load times, clear contact structure and responsive design.
+
+**[Kläder efter väder](https://github.com/knixan)** — PWA weather app for kids
+Child-friendly weather app helping parents and children choose appropriate clothing. Built as a Progressive Web App with a simple and accessible UX.
+
+**[B-movies](https://github.com/knixan)** — Web store
+E-commerce site for B-movie enthusiasts. Built with Next.js 15, Prisma and Server Actions.
+
+**[Sweettime UF](https://github.com/knixan)** — Web store for student company
+Full e-commerce solution with order management and admin panel. Built with Next.js, BetterAuth and Prisma.
+
+---
+
 ## 🌍 Find me
 
 [![kodochdesign.se](https://img.shields.io/badge/kodochdesign.se-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kodochdesign.se)
@@ -37,4 +56,4 @@ Photoshop · Illustrator · Lightroom · Figma · Azure · Git · GitHub
 
 ---
 
-*Open to new opportunities from spring 2025 · Mjölby, Östergötland 🇸🇪*
+*Open to new opportunities · REMOTE or Mjölby, Östergötland 🇸🇪*
