@@ -41,7 +41,7 @@ Presentation site for a local plumbing company. Focus on fast load times, clear 
 **[Kläder efter väder](https://github.com/knixan/kladereftervader)** — PWA weather app for kids
 Child-friendly weather app helping parents and children choose appropriate clothing. Built as a Progressive Web App with a simple and accessible UX.
 
-**[B-movies](https://github.com/knixan)** — Web store
+**[B-movies]([https://github.com/knixan](https://github.com/knixan/b-movies))** — Web store
 E-commerce site for B-movie enthusiasts. Built with Next.js 15, Prisma and Server Actions.
 
 **[Sweettime UF](https://github.com/knixan/sweettimeuf)** — Web store for student company
