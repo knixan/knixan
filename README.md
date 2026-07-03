@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+## 👩 About me
 I'm a fullstack developer with a frontend focus and a design background that goes back to 2007. What started as curiosity — designing blogs, building online stores, and selling my own products — has grown into a genuine passion for building modern web applications end to end.
 
 My primary stack is **Next.js, TypeScript, React, and Node.js** with **PostgreSQL and Prisma**. I'm comfortable across the full stack, but I'm at my best where business logic meets thoughtful UI.
