@@ -32,7 +32,7 @@ TypeScript · JavaScript · HTML · CSS
 Tailwind · shadcn/ui · MUI
 
 **Data & CMS**
-PostgreSQL · Prisma · Sanity
+PostgreSQL · Prisma · Sanity · Firebase
 
 **Design & Tools**
 Photoshop · Illustrator · Lightroom · Figma · Azure · Git · GitHub
@@ -43,6 +43,9 @@ Photoshop · Illustrator · Lightroom · Figma · Azure · Git · GitHub
 
 **[Knegarloggen](https://github.com/knixan/knegarloggen)** — SaaS suite for Swedish tradespeople *(in progress)*
 Job logging and invoicing system built with Next.js, TypeScript, Prisma and PostgreSQL. Supports ROT tax deductions, a customer registry and PDF invoice generation. Currently being restructured into a monorepo (pnpm + Turborepo) hosting three sibling apps — **Knegarloggen** (construction), **Hemloggen** (RUT/household services) and **Giggerloggen** (freelancers) — with shared UI, auth and database packages. Deployed as a PWA with Android support.
+
+**[Lotteri](https://github.com/knixan/lotteri)** — Digital lottery platform for a sports association *(solo project)*
+Ticket-purchasing platform for Mjölby Idrottsförbund built with Next.js (App Router, Server Actions), Firebase Auth/Firestore and the Admin SDK. Purchases and winner-drawing run through verified Server Actions with transactional ticket numbering, backed by a local Firebase Emulator Suite for development. Built with react-hook-form, zod and shadcn/ui.
 
 **[Dagens Dos](https://github.com/knixan/dagens-dos)** — Full-stack news platform *(group project)*
 Role-based access (Admin/Editor/User), Stripe subscriptions, AI-assisted article generation with Gemini, and live data from SMHI and Swedish electricity price APIs. My focus: authentication, role management, search and SEO.
