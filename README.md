@@ -34,8 +34,11 @@ Tailwind · shadcn/ui · MUI
 **Data & CMS**
 PostgreSQL · Prisma · Sanity · Firebase
 
+**Auth**
+BetterAuth · ASP.NET Core Identity · JWT
+
 **Design & Tools**
-Photoshop · Illustrator · Lightroom · Figma · Azure · Git · GitHub
+Photoshop · Illustrator · Lightroom · Figma · Photopea · Azure · Git · GitHub
 
 ---
 
