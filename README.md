@@ -23,7 +23,7 @@ I learn fast, take ownership of what I build, and care about delivering things t
 ## 🛠 Tech Stack
 
 **Frameworks**
-React · React Vite · Next.js · Node.js · ASP.NET Core · C#
+React · React Vite · Next.js · Angular · Node.js · ASP.NET Core · C#
 
 **Languages**
 TypeScript · JavaScript · HTML · CSS
