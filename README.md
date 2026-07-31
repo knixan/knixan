@@ -50,23 +50,23 @@ Job logging and invoicing system built with Next.js, TypeScript, Prisma and Post
 **[Skeningevvs-loggen](https://github.com/knixan/skeningevvs-loggen)** — Job, customer and invoice logging app *(client project)*
 Single-tenant logging system built for Skeninge VVS AB, a one-person plumbing/HVAC business. Covers job logging (articles, misc. costs, trips, hours, photos, status), a customer registry with ROT deduction details, and PDF invoice generation with running invoice numbers, ROT deduction, F-tax status and payment info. Built with Next.js 16, Tailwind, shadcn/ui, Prisma/PostgreSQL, better-auth and UploadThing.
 
-**[Dagens Dos](https://github.com/knixan/Dagensdos)** — Full-stack news platform *(group project)*
-Role-based access (Admin/Editor/User), Stripe subscriptions, AI-assisted article generation with Gemini, and live data from SMHI and Swedish electricity price APIs. My focus: authentication, role management, search and SEO.
-
-**[SweetTime UF](https://github.com/knixan/sweettimeuf)** — Web store for a student company *(client project)*
-Full e-commerce solution in live production — product variants, customer image uploads, tiered pricing, dynamic sitemap and a protected admin panel. Built with Next.js, BetterAuth and Prisma.
-
-**[Tassa in!](https://github.com/knixan/tassa-in)** — Booking system for pet care
-Monorepo with a React/Vite frontend and a separate ASP.NET Core backend. JWT auth, EF Core, timezone-safe booking logic (UTC ↔ Swedish time) and slot-capacity management.
+**[Skeninge VVS](https://github.com/skeningevvs/skeningevvs)** — Business website *(client project)*
+Presentation site for a local plumbing company — light/dark theme, Google Maps integration and SEO-optimised metadata.
 
 **[MotionZone](https://github.com/motionzoneproject/motionzoneproject)** — Dance studio platform *(client project)*
 Course, term and schedule management with product sales, orders and bookings. Built with Next.js 16, Prisma and Better Auth.
 
-**[Skeninge VVS](https://github.com/skeningevvs/skeningevvs)** — Business website *(client project)*
-Presentation site for a local plumbing company — light/dark theme, Google Maps integration and SEO-optimised metadata.
+**[SweetTime UF](https://github.com/knixan/sweettimeuf)** — Web store for a student company *(client project)*
+Full e-commerce solution in live production — product variants, customer image uploads, tiered pricing, dynamic sitemap and a protected admin panel. Built with Next.js, BetterAuth and Prisma.
 
 **[Kläder efter väder](https://github.com/knixan/kladereftervader)** — PWA weather app for kids
 Accessibility-focused app helping children with intellectual disabilities and autism choose weather-appropriate clothing on their own.
+
+**[Tassa in!](https://github.com/knixan/tassa-in)** — Booking system for pet care
+Monorepo with a React/Vite frontend and a separate ASP.NET Core backend. JWT auth, EF Core, timezone-safe booking logic (UTC ↔ Swedish time) and slot-capacity management.
+
+**[Dagens Dos](https://github.com/knixan/Dagensdos)** — Full-stack news platform *(group project)*
+Role-based access (Admin/Editor/User), Stripe subscriptions, AI-assisted article generation with Gemini, and live data from SMHI and Swedish electricity price APIs. My focus: authentication, role management, search and SEO.
 
 **[B-Movies](https://github.com/knixan/b-movies)** — Movie e-commerce platform *(group project)*
 Relational data model with cast/crew relations, server actions as the mutation layer, and price-snapshotting to keep order history accurate. Built with Next.js 15, Prisma and Server Actions.
