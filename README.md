@@ -47,6 +47,9 @@ Photoshop · Illustrator · Lightroom · Figma · Photopea · Azure · Git · Gi
 **[Knegarloggen](https://github.com/knixan/knegarloggen)** — SaaS suite for Swedish tradespeople *(solo project in progress)*
 Job logging and invoicing system built with Next.js, TypeScript, Prisma and PostgreSQL. Supports ROT tax deductions, a customer registry and PDF invoice generation. Currently being restructured into a monorepo (pnpm + Turborepo) hosting three sibling apps — **Knegarloggen** (construction), **Hemloggen** (RUT/household services) and **Giggerloggen** (freelancers) — with shared UI, auth and database packages. Deployed as a PWA with Android support.
 
+**[Skeningevvs-loggen](https://github.com/knixan/skeningevvs-loggen)** — Job, customer and invoice logging app *(client project)*
+Single-tenant logging system built for Skeninge VVS AB, a one-person plumbing/HVAC business. Covers job logging (articles, misc. costs, trips, hours, photos, status), a customer registry with ROT deduction details, and PDF invoice generation with running invoice numbers, ROT deduction, F-tax status and payment info. Built with Next.js 16, Tailwind, shadcn/ui, Prisma/PostgreSQL, better-auth and UploadThing.
+
 **[Dagens Dos](https://github.com/knixan/Dagensdos)** — Full-stack news platform *(group project)*
 Role-based access (Admin/Editor/User), Stripe subscriptions, AI-assisted article generation with Gemini, and live data from SMHI and Swedish electricity price APIs. My focus: authentication, role management, search and SEO.
 
