@@ -59,7 +59,7 @@ Course, term and schedule management with product sales, orders and bookings. Bu
 **[SweetTime UF](https://github.com/knixan/sweettimeuf)** — Web store for a student company *(client project)*
 Full e-commerce solution in live production — product variants, customer image uploads, tiered pricing, dynamic sitemap and a protected admin panel. Built with Next.js, BetterAuth and Prisma.
 
-**[Kläder efter väder](https://github.com/knixan/kladereftervader)** — PWA weather app for kids [website](https:/kladereftervader.se)
+**[Kläder efter väder](https://github.com/knixan/kladereftervader)** — PWA weather app for kids [website](https://kladereftervader.se)
 Accessibility-focused app helping children with intellectual disabilities and autism choose weather-appropriate clothing on their own.
 
 **[Tassa in!](https://github.com/knixan/tassa-in)** — Booking system for pet care
